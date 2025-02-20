@@ -1,218 +1,145 @@
 #EXTM3U
 #EXTINF:-1 ,Haná - Sky Rock
 http://icecast8.play.cz/skyrock128.mp3
-
 #EXTINF:-1 ,Rádio Beat
 http://icecast5.play.cz/radiobeat128.mp3
-
 #EXTINF:-1 ,Rádio Èas Rock
 http://icecast6.play.cz/casrock128.mp3
-
 #EXTINF:-1 ,Rádio Hey
 http://icecast3.play.cz/hey-radio128.mp3
-
 #EXTINF:-1 ,Rádio Orlicko
 http://46.28.111.246/stream192.mp3
-
 #EXTINF:-1 ,Rádio Rock Max
 http://icecast1.play.cz/rockmax128.mp3
-
 #EXTINF:-1 ,Rock Rádio
 http://ice.abradio.cz/rockradio128.mp3
-
 #EXTINF:-1 ,Rock Zone 105,9 FM
 http://icecast5.play.cz/rockzone128.mp3
-
 #EXTINF:-1 ,DAB Plus Top 40
 http://icecast6.play.cz/dabplus-top40.mp3
-
 #EXTINF:-1 ,Fajn Rádio
 http://ice.abradio.cz/fajn128.mp3
-
 #EXTINF:-1 ,Hitrádio City
 http://ice.abradio.cz/citybrno128.mp3
-
 #EXTINF:-1 ,Hitrádio City 93,7 FM
 http://ice.abradio.cz/cityfm128.mp3
-
 #EXTINF:-1 ,Hitrádio Dragon
 http://ice.abradio.cz/dragon128.mp3
-
 #EXTINF:-1 ,Hitrádio Èerná Hora
 http://ice.abradio.cz/cernahora128.mp3
-
 #EXTINF:-1 ,Hitrádio FM
 http://ice.abradio.cz/hitradiofm128.mp3
-
 #EXTINF:-1 ,Hitrádio FM Crystal
 http://ice.abradio.cz/crystal128.mp3
-
 #EXTINF:-1 ,Hitrádio FM Plus
 http://ice.abradio.cz/fmplus128.mp3
-
 #EXTINF:-1 ,Hitrádio Orion
 http://ice.abradio.cz/orion128.mp3
-
 #EXTINF:-1 ,Hitrádio Vysoèina
 http://ice5.abradio.cz/hitvysocina320.mp3
-
 #EXTINF:-1 ,Oldies Rádio
 http://ice.abradio.cz/oldiesradio128.mp3
-
 #EXTINF:-1 ,Rádio Blaník
 http://ice.abradio.cz/blanikfm128.mp3
-
 #EXTINF:-1 ,Rádio Contact Liberec
 http://icecast8.play.cz/contact128.mp3
-
 #EXTINF:-1 ,Rádio Dálnice
 http://icecast8.play.cz/radiodalnice.mp3
-
 #EXTINF:-1 ,Rádio Èas
 http://icecast6.play.cz/casradio128.mp3
-
 #EXTINF:-1 ,Rádio Èeská Kanada
 http://stream.sepia.sk:8000/kanada128.mp3
-
 #EXTINF:-1 ,Rádio Haná
 http://icecast8.play.cz/hana160.mp3
-
 #EXTINF:-1 ,Rádio Helax
 http://ice.abradio.cz/helax128.mp3
-
 #EXTINF:-1 ,Rádio Impuls
 http://icecast1.play.cz/impuls128.mp3
-
 #EXTINF:-1 ,Rádio Jih
 http://icecast6.play.cz/jih128.mp3
-
 #EXTINF:-1 ,Rádio Jihlava
 http://icecast3.play.cz/radiojihlava128.mp3
-
 #EXTINF:-1 ,Rádio Kiss
 http://icecast4.play.cz/kiss128.mp3
-
 #EXTINF:-1 ,Rádio Krokodýl
 http://icecast4.play.cz/krokodyl128.mp3
-
 #EXTINF:-1 ,Rádio Kromeøíž
 http://icecast6.play.cz/radio-kromeriz128.mp3
-
 #EXTINF:-1 ,Rádio Rubi
 http://icecast8.play.cz/radiorubi128.mp3
-
 #EXTINF:-1 ,Rádio Zlín
 http://icecast1.play.cz/radiozlin128.mp3
-
 #EXTINF:-1 ,ÈRo Brno
 http://icecast2.play.cz/crobrno128.mp3
-
 #EXTINF:-1 ,ÈRo D-dur
 http://icecast6.play.cz/croddur-256.mp3
-
 #EXTINF:-1 ,ÈRo Dvojka
 http://icecast7.play.cz/cro2-128.mp3
-
 #EXTINF:-1 ,ÈRo Èeské Budìjovice
 http://icecast2.play.cz/crocb128.mp3
-
 #EXTINF:-1 ,ÈRo Hradec Králove
 http://icecast2.play.cz/crohk128.mp3
-
 #EXTINF:-1 ,ÈRo Jazz
-
 http://icecast4.play.cz/crojazz256.mp3
-
 #EXTINF:-1 ,ÈRo Karlovy Vary
 http://icecast2.play.cz/crokv128.mp3
-
 #EXTINF:-1 ,ÈRo Liberec
 http://icecast2.play.cz/croliberec128.mp3
-
 #EXTINF:-1 ,ÈRo Olomouc
 http://icecast2.play.cz/crool128.mp3
-
 #EXTINF:-1 ,ÈRo Ostrava
 http://icecast2.play.cz/croov128.mp3
-
-
 #EXTINF:-1 ,ÈRo Pardubice
 http://icecast2.play.cz/cropardubice128.mp3
-
 #EXTINF:-1 ,ÈRo Plus
 http://icecast1.play.cz/croplus128.mp3
-
 #EXTINF:-1 ,ÈRo Plzeò
 http://icecast2.play.cz/croplzen128.mp3
-
 #EXTINF:-1 ,ÈRo Rádio Junior
 http://icecast5.play.cz/crojuniormaxi128.mp3
-
 #EXTINF:-1 ,ÈRo Radio Praha
 http://icecast2.play.cz/cro7-128.mp3
-
 #EXTINF:-1 ,ÈRo Radio Wave
 http://icecast3.play.cz/crowave-256.mp3
-
 #EXTINF:-1 ,ÈRo Radiožurnál
 http://icecast8.play.cz/cro1-128.mp3
-
 #EXTINF:-1 ,ÈRo Regina DAB Praha
 http://icecast2.play.cz/croregina128.mp3
-
 #EXTINF:-1 ,ÈRo Region
 http://icecast2.play.cz/croregion128.mp3
-
 #EXTINF:-1 ,ÈRo Sever
 http://icecast2.play.cz/crosever128.mp3
-
 #EXTINF:-1 ,ÈRo Vltava
 http://icecast7.play.cz/cro3-256.mp3
-
 #EXTINF:-1 ,ÈRo Vysoèina
 http://icecast2.play.cz/crovysocina128.mp3
-
 #EXTINF:-1 ,ÈRo Zlín
 http://icecast7.play.cz/crozlin128.mp3
-
 #EXTINF:-1 ,Classic Praha
 http://icecast8.play.cz/classic128.mp3
-
 #EXTINF:-1 ,Color Music Rádio
 http://icecast6.play.cz/color192.mp3
-
 #EXTINF:-1 ,Country Rádio
 http://icecast4.play.cz/country128.mp3
-
 #EXTINF:-1 ,Èeský Impuls
 http://icecast6.play.cz/cesky-impuls.mp3
-
 #EXTINF:-1 ,Expres FM
 http://icecast8.play.cz/expres128mp3
-
 #EXTINF:-1 ,Free Rádio 107,0 FM Brno
 http://icecast8.play.cz/freeradio128.mp3
-
 #EXTINF:-1 ,Proglas
 http://icecast2.play.cz/proglas128
-
 #EXTINF:-1 ,Rádio 1
 http://icecast2.play.cz/radio1.mp3
-
 #EXTINF:-1 ,Rádio Blatná
 http://vserver.sporknet.cz:8889/test.mp3?r=0.8268304430109332
-
 #EXTINF:-1 ,Rádio Dechovka
 http://icecast5.play.cz/dechovka128.mp3
-
 #EXTINF:-1 ,Rádio Samson
 http://icecast8.play.cz/samsonfm128.mp3
-
 #EXTINF:-1 ,Rádio Spin
 http://icecast4.play.cz/spin128.mp3
-
 #EXTINF:-1 ,SeeJay Rádio
 http://icecast6.play.cz/seejay128.mp3
-
 #EXTINF:-1 ,Signál Rádio
 http://icecast1.play.cz/signal192.mp3
